@@ -16,3 +16,9 @@ data/submissions/*
 .idea/
 kaggle.json
 .kaggle/
+.venv/
+.kaggle/
+data/raw/
+*.env
+id_*
+*.pem
